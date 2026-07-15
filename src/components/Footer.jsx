@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <section class="bg-[#f7f3eb] flex justify-center">
-      <div className="grid md:grid-cols-3 gap-6 py-6 text-center md:text-left max-w-225">
+      <div className="grid md:grid-cols-3 gap-6 py-6 text-center md:text-left max-w-225 mx-12">
         <div className="">
           <h3 className="text-xl uppercase font-sans mb-2">This is Allora</h3>
           <p className="text-sm">
