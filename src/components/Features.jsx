@@ -1,6 +1,5 @@
 import featureData from "../featureData.js";
 
-console.log(featureData);
 function Features() {
   return (
     <>
